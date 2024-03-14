@@ -1,0 +1,228 @@
+ [
+      {
+         "id": 1,
+         "task_name": "Update inventory records",
+         "description": "Update the inventory records with the latest information.",
+         "priority": "High",
+         "due_date": "2024-03-15",
+         "assigned_to": "John Doe",
+         "status": "Incomplete"
+      },
+      {
+         "id": 2,
+         "task_name": "Prepare financial report",
+         "description": "Prepare the financial report for the previous quarter.",
+         "priority": "High",
+         "due_date": "2024-03-18",
+         "assigned_to": "Jane Smith",
+         "status": "Incomplete"
+      },
+      {
+         "id": 3,
+         "task_name": "Meeting with clients",
+         "description": "Scheduled meeting with clients to discuss project updates.",
+         "priority": "Medium",
+         "due_date": "2024-03-16",
+         "assigned_to": "Marketing Team",
+         "status": "Incomplete"
+      },
+      {
+         "id": 4,
+         "task_name": "Code review",
+         "description": "Conduct a code review for the latest feature implementation.",
+         "priority": "Low",
+         "due_date": "2024-03-17",
+         "assigned_to": "Development Team",
+         "status": "Incomplete"
+      },
+      {
+         "id": 5,
+         "task_name": "Submit project proposal",
+         "description": "Submit the project proposal to the client for approval.",
+         "priority": "High",
+         "due_date": "2024-03-14",
+         "assigned_to": "Project Manager",
+         "status": "Complete"
+      },
+      {
+         "id": 6,
+         "task_name": "Website maintenance",
+         "description": "Perform routine maintenance on the company website.",
+         "priority": "Medium",
+         "due_date": "2024-03-20",
+         "assigned_to": "IT Department",
+         "status": "Incomplete"
+      },
+      {
+         "id": 7,
+         "task_name": "Employee training session",
+         "description": "Organize a training session for new employees.",
+         "priority": "Medium",
+         "due_date": "2024-03-21",
+         "assigned_to": "HR Department",
+         "status": "Incomplete"
+      },
+      {
+         "id": 8,
+         "task_name": "Customer feedback analysis",
+         "description": "Analyze customer feedback to improve product quality.",
+         "priority": "High",
+         "due_date": "2024-03-19",
+         "assigned_to": "Product Management Team",
+         "status": "Incomplete"
+      },
+      {
+         "id": 9,
+         "task_name": "Marketing campaign launch",
+         "description": "Launch the new marketing campaign on social media platforms.",
+         "priority": "High",
+         "due_date": "2024-03-22",
+         "assigned_to": "Marketing Team",
+         "status": "Incomplete"
+      },
+      {
+         "id": 10,
+         "task_name": "Budget planning meeting",
+         "description": "Hold a meeting to discuss budget planning for the upcoming quarter.",
+         "priority": "Medium",
+         "due_date": "2024-03-23",
+         "assigned_to": "Finance Department",
+         "status": "Incomplete"
+      },
+      {
+         "id": 11,
+         "task_name": "Product roadmap presentation",
+         "description": "Present the product roadmap to stakeholders for feedback.",
+         "priority": "High",
+         "due_date": "2024-03-25",
+         "assigned_to": "Product Management Team",
+         "status": "Incomplete"
+      },
+      {
+         "id": 12,
+         "task_name": "Quality assurance testing",
+         "description": "Conduct quality assurance testing for the new software release.",
+         "priority": "High",
+         "due_date": "2024-03-24",
+         "assigned_to": "Quality Assurance Team",
+         "status": "Incomplete"
+      },
+      {
+         "id": 13,
+         "task_name": "Sales strategy brainstorming",
+         "description": "Brainstorm new sales strategies to increase revenue.",
+         "priority": "Medium",
+         "due_date": "2024-03-26",
+         "assigned_to": "Sales Team",
+         "status": "Incomplete"
+      },
+      {
+         "id": 14,
+         "task_name": "Client follow-up calls",
+         "description": "Follow up with clients to gather feedback on recent purchases.",
+         "priority": "Medium",
+         "due_date": "2024-03-27",
+         "assigned_to": "Customer Service Team",
+         "status": "Incomplete"
+      },
+      {
+         "id": 15,
+         "task_name": "IT infrastructure upgrade",
+         "description": "Upgrade the company's IT infrastructure to improve performance.",
+         "priority": "High",
+         "due_date": "2024-03-28",
+         "assigned_to": "IT Department",
+         "status": "Incomplete"
+      },
+      {
+         "id": 16,
+         "task_name": "Quarterly performance review",
+         "description": "Conduct performance reviews for all employees.",
+         "priority": "High",
+         "due_date": "2024-03-29",
+         "assigned_to": "HR Department",
+         "status": "Incomplete"
+      },
+      {
+         "id": 17,
+         "task_name": "Market research analysis",
+         "description": "Analyze market trends to identify new business opportunities.",
+         "priority": "High",
+         "due_date": "2024-03-30",
+         "assigned_to": "Market Research Team",
+         "status": "Incomplete"
+      },
+      {
+         "id": 18,
+         "task_name": "New hire orientation",
+         "description": "Conduct orientation for new hires to familiarize them with company policies.",
+         "priority": "Medium",
+         "due_date": "2024-03-31",
+         "assigned_to": "HR Department",
+         "status": "Incomplete"
+      },
+      {
+         "id": 19,
+         "task_name": "Website redesign",
+         "description": "Redesign the company website to improve user experience.",
+         "priority": "High",
+         "due_date": "2024-04-01",
+         "assigned_to": "Web Development Team",
+         "status": "Incomplete"
+      },
+      {
+         "id": 20,
+         "task_name": "Product launch event",
+         "description": "Organize an event to launch the new product.",
+         "priority": "High",
+         "due_date": "2024-04-02",
+         "assigned_to": "Marketing Team",
+         "status": "Incomplete"
+      },
+      {
+         "id": 21,
+         "task_name": "Customer satisfaction survey",
+         "description": "Conduct a survey to measure customer satisfaction levels.",
+         "priority": "Medium",
+         "due_date": "2024-04-03",
+         "assigned_to": "Customer Service Team",
+         "status": "Incomplete"
+      },
+      {
+         "id": 22,
+         "task_name": "Employee training workshop",
+         "description": "Organize a workshop to provide additional training for employees.",
+         "priority": "Medium",
+         "due_date": "2024-04-04",
+         "assigned_to": "HR Department",
+         "status": "Incomplete"
+      },
+      {
+         "id": 23,
+         "task_name": "Supplier negotiations",
+         "description": "Negotiate contracts with suppliers to secure better deals.",
+         "priority": "High",
+         "due_date": "2024-04-05",
+         "assigned_to": "Procurement Team",
+         "status": "Incomplete"
+      },
+      {
+         "id": 24,
+         "task_name": "Social media marketing campaign",
+         "description": "Launch a social media marketing campaign to increase brand awareness.",
+         "priority": "High",
+         "due_date": "2024-04-06",
+         "assigned_to": "Marketing Team",
+         "status": "Incomplete"
+      },
+      {
+         "id": 25,
+         "task_name": "Inventory audit",
+         "description": "Conduct an audit of inventory to ensure accuracy.",
+         "priority": "High",
+         "due_date": "2024-04-07",
+         "assigned_to": "Inventory Management Team",
+         "status": "Incomplete"
+      }
+   ]
+
